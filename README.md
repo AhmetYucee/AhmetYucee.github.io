@@ -4,9 +4,9 @@ Public pages required by App Review, served by GitHub Pages.
 
 | Page | Address |
 | --- | --- |
-| Home | https://ahmetyucee.github.io/ |
-| Privacy Policy | https://ahmetyucee.github.io/privacy/ |
-| Terms of Service | https://ahmetyucee.github.io/terms/ |
+| Home | https://yuescoo.github.io/ |
+| Privacy Policy | https://yuescoo.github.io/privacy/ |
+| Terms of Service | https://yuescoo.github.io/terms/ |
 
 Plain HTML and one stylesheet, no build step. `.nojekyll` keeps GitHub from
 running Jekyll over the files, so they are published exactly as they are here.
